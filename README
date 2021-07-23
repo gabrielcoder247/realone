@@ -1,8 +1,8 @@
 
-# Instaclone247
+## Instaclone247
 
 
-## RentorBuyNow is a  web that user can list their property and renter can book 
+## RentorBuyNow is a  web that user can list their property and renter can book
 appointment to view the property based on schedules.
 ## Created on: February, 25TH,  2020
 
@@ -59,7 +59,7 @@ Install dependancies that will create an environment for the app to run
 ## Run Database Migrations
 ```
 python manage.py db makemigrations <app name>
-python manage.py db migrate 
+python manage.py db migrate
 
 ```
 
@@ -91,5 +91,4 @@ N/B The finished product yet read ...more features and functionalities are still
     - Postgresql
 
 ## Support and contact details
-Contact me on gabrielcoder@gmail.com for any comments, reviews or advice.
 
